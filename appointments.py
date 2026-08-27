@@ -4,7 +4,7 @@ class Appointment:
         self.doctor_name = doctor_name
         self.date = date
         self.time = time
-        self.location = location
+        self.location = mylocation
 
 
     def schedule(self):
